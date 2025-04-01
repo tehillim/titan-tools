@@ -1,7 +1,7 @@
 # Tools of Titans 
 https://github.com/tehillim/titan-tools  
 
-## media editor
+## Media Editor
 ### FLORA © 
 https://www.florafauna.ai/  
 Your Intelligent Canvas.  
@@ -23,7 +23,7 @@ Remove Background from Image for Free
 http://iothingsmaker.com/jpg2webp  
 Simple and Fastest Webp Converter  
 
-## drawing canvas
+## Drawing Canvas
 ### Excalidraw
 https://excalidraw.com/  
 virtual collaborative whiteboard tool 
