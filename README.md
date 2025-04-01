@@ -1,6 +1,9 @@
 # Tools of Titans 
 https://github.com/tehillim/titan-tools  
 
+<details>
+<summary>Media Editor</summary>
+
 ## Media Editor
 ### FLORA © 
 https://www.florafauna.ai/  
@@ -22,13 +25,20 @@ Remove Background from Image for Free
 ### image2webp
 http://iothingsmaker.com/jpg2webp  
 Simple and Fastest Webp Converter  
+</details>
 
+<details>
+<summary>Drawing Canvas</summary>
+  
 ## Drawing Canvas
 ### Excalidraw
 https://excalidraw.com/  
 virtual collaborative whiteboard tool 
+</details>
 
-
+<details>
+<summary>LLM</summary>
+  
 ## LLM
 ## ChatGPT
 https://chatgpt.com/  
@@ -38,4 +48,5 @@ http://claude.ai/
 
 ## Grok
 https://grok.com/  
+</details>
 
