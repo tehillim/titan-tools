@@ -22,3 +22,20 @@ Remove Background from Image for Free
 ### image2webp
 http://iothingsmaker.com/jpg2webp  
 Simple and Fastest Webp Converter  
+
+## drawing canvas
+### Excalidraw
+https://excalidraw.com/  
+virtual collaborative whiteboard tool 
+
+
+## LLM
+## ChatGPT
+https://chatgpt.com/  
+
+## Claude
+http://claude.ai/  
+
+## Grok
+https://grok.com/  
+
