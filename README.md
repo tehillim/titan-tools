@@ -55,3 +55,9 @@ http://claude.ai/
 https://grok.com/  
 </details>
 
+<details>
+<summary>Crawling</summary>
+
+## Line Break Removal Tool
+https://www.textfixer.com/tools/remove-line-breaks.php  
+</details>
