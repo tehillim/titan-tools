@@ -25,6 +25,11 @@ Remove Background from Image for Free
 ### image2webp
 http://iothingsmaker.com/jpg2webp  
 Simple and Fastest Webp Converter  
+
+### ImageFX
+https://labs.google/fx/tools/image-fx  
+Transform text into images and explore with endless imagination.
+
 </details>
 
 <details>
