@@ -30,6 +30,10 @@ Simple and Fastest Webp Converter
 https://labs.google/fx/tools/image-fx  
 Transform text into images and explore with endless imagination.
 
+### Stable Diffusion
+https://stablediffusionweb.com/  
+Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+
 </details>
 
 <details>
